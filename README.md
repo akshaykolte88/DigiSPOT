@@ -1,0 +1,2 @@
+# DigiSPOT
+script
